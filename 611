@@ -1,0 +1,10 @@
+# 这是一行注释，不会被执行
+# 打印欢迎信息
+print("Hello, Python!")
+print("我正在学习编程~")
+
+# 做一个简单的加法计算
+a = 10
+b = 20
+sum_result = a + b
+print(f"{a} + {b} = {sum_result}")
